@@ -6,7 +6,7 @@ articles: [habr.com/ru/users/kitaisky/](habr.com/ru/users/kitaisky/)</br>
 #### Skills
 | ML | NLP | CV | RecSys/Search | Tools |
 | --- | --- | --- | --- | --- |
-| Pytorch | BERT, GTP, T5 | OpenCV | Catboost, SASRec, EASE, DSSM|Linux, git, docker|
+| Pytorch | BERT, GTP, T5 | OpenCV | Catboost, SASRec, EASE, DSSM|Linux, git, docker, k8s|
 | Transformers | pymystem, pymorphy | YOLO, VGG | FAISS, HNSW, QDRANT| Hadoop, PySpark, Airflow, MLflow|
 | Classic ML | nltk, gensim, natasha | ResNet, U-Net | Content embeddings |SQL, ElasticSearch, Clickhouse |
 #### Expertise
